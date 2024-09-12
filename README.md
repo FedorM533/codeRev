@@ -7,3 +7,10 @@
 Read me
 
 [link](https://github.com)
+
+Это название `библиотеки`.
+
+А это код:
+```bash
+echo -n 'TODO'
+```
